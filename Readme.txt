@@ -1,6 +1,4 @@
-CSE 5462: Homework 1 - Write a file transfer application using TCP sockets.
-
-Submitted By: Rohit Kapoor - kapoor.83@osu.edu
+By: Rohit Kapoor - rohit_kapoor@outlook.com
 
 How to transfer a file:
 
